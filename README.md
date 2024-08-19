@@ -8,7 +8,6 @@ Este projeto faz parte da avaliação dos conteúdos de Backend do curso de Dese
 1. **Clone o repositório:**
    ```bash
    git clone https://github.com/elamaguiar/digital-projeto-api.git
-   cd digital-projeto-api
    ```
 
 2. **Instale as dependências:**
